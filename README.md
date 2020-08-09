@@ -1,4 +1,4 @@
-## Hi there and welcome! 👋
+## 👋 Hi there and welcome!
 I'm Lucas Hara, M.Sc., Product Development Enginner at Embraer and postgraduate student in Artificial Intelligence and Machine Learning at PUC-MG.  
 Passionate about technology and coding! Here you can find some of my works and projects I created.  
 Be free to comment and add sugestions!  
