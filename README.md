@@ -6,7 +6,6 @@ Be free to comment and add sugestions!
 #### 📘 Currently learning:  
 [![Python Badge](https://img.shields.io/badge/-Python-e0c307?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 [![JS Badge](https://img.shields.io/badge/-JavaScript-e3098c?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![React badge](https://img.shields.io/badge/-ReactJS-6a07a3?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
 [![.NET Badge](https://img.shields.io/badge/-.NET-2659f0?style=flat-square&logo=Python&logoColor=white&link=https://dotnet.microsoft.com/)](https://dotnet.microsoft.com/)
 
 #### 🗺 Where you can find me:
